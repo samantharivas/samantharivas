@@ -38,7 +38,7 @@ I am passionate about data engineering and science and its applications in solvi
 
 ## Connect with Me
 
-📫 [LinkedIn](https://linkedin.com/in/www.linkedin.com/in/samanthabrivas)
+📫 [LinkedIn](https://linkedin.com/in/samanthabrivas)
 💼 [GitHub](https://github.com/samantharivas)
 
 Feel free to explore my repositories and projects related to data engineering, machine learning, and applied data science!

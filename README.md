@@ -1,7 +1,7 @@
 # Hello, I'm Samantha Rivas! 👋  Welcome to my Github! 
 
-- 🎓 I'm currently pursuing my Master's in Applied Data Science at the University of San Diego
-- 🍷 Data Lake Engineer Intern at Gallo
+- 🎓 Recent graduate with a Master's in Applied Data Science from the University of San Diego
+
 
 ## About Me
 
